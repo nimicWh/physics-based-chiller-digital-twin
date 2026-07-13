@@ -142,6 +142,8 @@ This project combines concepts from multiple engineering disciplines:
 # Screenshots
 
 * Dashboard Overview
+  <img width="1919" height="1013" alt="main" src="https://github.com/user-attachments/assets/a62204cf-1916-4be4-b3f5-25ed633712c1" />
+
 * Equipment Monitoring
 * Health Monitoring
 * Performance Trends
