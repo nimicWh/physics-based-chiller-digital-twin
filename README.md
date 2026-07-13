@@ -145,9 +145,27 @@ This project combines concepts from multiple engineering disciplines:
   <img width="1919" height="1013" alt="main" src="https://github.com/user-attachments/assets/a62204cf-1916-4be4-b3f5-25ed633712c1" />
 
 * Equipment Monitoring
+  <img width="1919" height="1020" alt="equipment" src="https://github.com/user-attachments/assets/76be3782-c2b6-4e21-9c45-c939c0d74260" />
+
+  Compressor details
+  <img width="1919" height="1013" alt="compressor_detail" src="https://github.com/user-attachments/assets/b7de0460-660f-4be2-a6d9-fdb156ebc352" />
+
+* Physic
+  <img width="1919" height="1016" alt="physic" src="https://github.com/user-attachments/assets/14e416d9-a16d-4e16-97c0-666b371fbc88" />
+
 * Health Monitoring
+  <img width="1919" height="1013" alt="diagnostic" src="https://github.com/user-attachments/assets/dd8bafff-cc61-4bb8-8852-48f08d5459ab" />
+
 * Performance Trends
+  <img width="1919" height="1016" alt="trend" src="https://github.com/user-attachments/assets/f85e7402-6ffd-494c-a69e-269e4b51d2d1" />
+
 * Alarm Panel
+  <img width="1919" height="1017" alt="alarm" src="https://github.com/user-attachments/assets/003dec8d-6712-41d3-ad80-ff54c45409ef" />
+  
+* Setting
+  <img width="1919" height="1020" alt="setting" src="https://github.com/user-attachments/assets/7c82d199-5356-4022-b6b3-4b2313afb5de" />
+
+
 
 ---
 
