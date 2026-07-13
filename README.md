@@ -20,15 +20,11 @@
 
 ## Overview
 
-The **Physics-Based Chiller Digital Twin** is an engineering simulation platform developed to model the operation and performance of industrial vapor-compression chiller systems.
+The **Physics-Based Chiller Digital Twin** is a proof-of-concept engineering project developed to simulate the operation and performance of industrial chiller systems.
 
 Unlike simplified calculators or purely data-driven models, this project focuses on **physics-based equipment modelling**, enabling realistic simulation of system behaviour, operating conditions, equipment performance, and engineering KPIs.
 
 The project demonstrates the application of software engineering principles to industrial automation and HVAC systems, serving as a portfolio project in **Digital Twin**, **Industrial Digitalisation (Industry 4.0)**, and **engineering software development**.
-
-> **Repository Notice**
->
-> This repository is provided as a project showcase. The implementation is proprietary and the source code is intentionally not published.
 
 ---
 
@@ -92,7 +88,7 @@ Condition monitoring capabilities include:
 
 * Equipment Health Score
 * Performance Degradation Tracking
-* Remaining Useful Life (RUL) Estimation
+* Remaining Useful Life (RUL) Estimation (not done yet)
 * Equipment Status Assessment
 * Maintenance Indicators
 
@@ -106,7 +102,6 @@ Simulation of common operating abnormalities including:
 * Low Pressure
 * High Temperature
 * Compressor Overload
-* Freeze Protection
 * Refrigerant Fault Conditions
 * Equipment Warning States
 
@@ -146,10 +141,6 @@ This project combines concepts from multiple engineering disciplines:
 
 # Screenshots
 
-> Screenshots will be added as the project continues to evolve.
-
-Suggested showcase images:
-
 * Dashboard Overview
 * Equipment Monitoring
 * Health Monitoring
@@ -171,7 +162,7 @@ Primary objectives include:
 * Equipment performance analysis
 * Predictive maintenance concepts
 
-It also serves as a professional portfolio demonstrating experience in industrial automation, software engineering, and applied engineering research.
+
 
 ---
 
@@ -179,30 +170,9 @@ It also serves as a professional portfolio demonstrating experience in industria
 
 **Current Status:** Active Development
 
-Current areas of development include:
-
-* Enhanced thermodynamic modelling
-* Improved equipment physics
-* Expanded fault simulation
-* Advanced health monitoring
-* Dashboard refinements
-* Additional engineering analytics
 
 ---
 
-# Repository Information
-
-This repository showcases the project scope and capabilities while protecting proprietary implementation details.
-
-The following are intentionally excluded:
-
-* Source code
-* Internal algorithms
-* Software architecture
-* Engineering implementation details
-* Design documentation
-
----
 
 # Disclaimer
 
