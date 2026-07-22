@@ -32,9 +32,9 @@ The project demonstrates the application of software engineering principles to i
 
 ## Physics-Based Simulation
 
-* Vapor-compression refrigeration cycle simulation
-* Refrigerant thermodynamic property calculations
-* Compressor performance modelling
+* refrigeration cycle simulation
+* Refrigerant calculations
+* Compressor modelling
 * Evaporator simulation
 * Condenser simulation
 * Expansion valve simulation
