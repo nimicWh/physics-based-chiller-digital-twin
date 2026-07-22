@@ -49,9 +49,6 @@ Real-time calculation of engineering performance indicators including:
 * Cooling Capacity
 * Compressor Power
 * Plant Power Consumption
-* Coefficient of Performance (COP)
-* Energy Efficiency Ratio (EER)
-* kW per Refrigeration Ton (kW/RT)
 * Equipment Efficiency
 * System Operating Status
 
