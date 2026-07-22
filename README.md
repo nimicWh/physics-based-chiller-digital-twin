@@ -65,6 +65,7 @@ Live monitoring of major chiller components:
 * Pumps
 * Chilled Water Circuit
 * Condenser Water Circuit
+* Engineering Trace
 
 Typical operating parameters include:
 
