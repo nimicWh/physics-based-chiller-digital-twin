@@ -125,9 +125,6 @@ The application provides an industrial-style monitoring interface featuring:
 This project combines concepts from multiple engineering disciplines:
 
 * HVAC Engineering
-* Refrigeration Engineering
-* Thermodynamics
-* Heat Transfer
 * Industrial Automation
 * Digital Twin Technology
 * Industrial Digitalisation (Industry 4.0)
