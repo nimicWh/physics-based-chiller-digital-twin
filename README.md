@@ -142,8 +142,11 @@ This project combines concepts from multiple engineering disciplines:
 * Equipment Monitoring
   <img width="1919" height="1020" alt="equipment" src="https://github.com/user-attachments/assets/76be3782-c2b6-4e21-9c45-c939c0d74260" />
 
-  Compressor details
-  <img width="1919" height="1013" alt="compressor_detail" src="https://github.com/user-attachments/assets/b7de0460-660f-4be2-a6d9-fdb156ebc352" />
+* Compressor details
+  <img width="1919" height="1013" alt="compressor_detail" src="https://github.com/user-attachments/assets/b7de0460-660f-4be2-a6d9-fdb156ebc352" /
+
+* 3D visualisation
+  <img width="1919" height="1020" alt="chiller" src="https://github.com/user-attachments/assets/8849c739-6d41-49c5-a129-24c3c4755041" />
 
 * Physic
   <img width="1919" height="1016" alt="physic" src="https://github.com/user-attachments/assets/14e416d9-a16d-4e16-97c0-666b371fbc88" />
@@ -153,6 +156,10 @@ This project combines concepts from multiple engineering disciplines:
 
 * Performance Trends
   <img width="1919" height="1016" alt="trend" src="https://github.com/user-attachments/assets/f85e7402-6ffd-494c-a69e-269e4b51d2d1" />
+
+* Engineering Trace
+  <img width="1920" height="1013" alt="engtrace" src="https://github.com/user-attachments/assets/13cfa9e9-c742-43ea-80cf-76bec49a99aa" />
+
 
 * Alarm Panel
   <img width="1919" height="1017" alt="alarm" src="https://github.com/user-attachments/assets/003dec8d-6712-41d3-ad80-ff54c45409ef" />
