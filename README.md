@@ -143,7 +143,7 @@ This project combines concepts from multiple engineering disciplines:
   <img width="1919" height="1020" alt="equipment" src="https://github.com/user-attachments/assets/76be3782-c2b6-4e21-9c45-c939c0d74260" />
 
 * Compressor details
-  <img width="1919" height="1013" alt="compressor_detail" src="https://github.com/user-attachments/assets/b7de0460-660f-4be2-a6d9-fdb156ebc352" /
+  <img width="1919" height="1013" alt="compressor_detail" src="https://github.com/user-attachments/assets/b7de0460-660f-4be2-a6d9-fdb156ebc352" />
 
 * 3D visualisation
   <img width="1919" height="1020" alt="chiller" src="https://github.com/user-attachments/assets/8849c739-6d41-49c5-a129-24c3c4755041" />
