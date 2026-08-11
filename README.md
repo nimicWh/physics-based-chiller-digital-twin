@@ -10,8 +10,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Active%20Development-success" />
-<img src="https://img.shields.io/badge/Python-3.x-blue" />
-<img src="https://img.shields.io/badge/GUI-PySide6-green" />
 <img src="https://img.shields.io/badge/Simulation-Physics%20Based-orange" />
 </p>
 
