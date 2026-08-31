@@ -117,20 +117,6 @@ The application provides an industrial-style monitoring interface featuring:
 ---
 
 
-
-# Engineering Domains
-
-This project combines concepts from multiple engineering disciplines:
-
-* HVAC Engineering
-* Industrial Automation
-* Digital Twin Technology
-* Industrial Digitalisation (Industry 4.0)
-* Predictive Maintenance
-* Equipment Performance Analytics
-
----
-
 # Screenshots
 
 * Dashboard Overview
@@ -177,7 +163,7 @@ Primary objectives include:
 * Physics-based equipment modelling
 * Digital Twin development
 * Engineering software design
-* Industrial monitoring visualisation
+* Industrial monitoring visualization
 * Equipment performance analysis
 * Predictive maintenance concepts
 
@@ -193,8 +179,4 @@ Primary objectives include:
 ---
 
 
-# Disclaimer
 
-This project is an independent engineering portfolio developed for learning, research, and professional demonstration purposes.
-
-It is **not affiliated with, endorsed by, or associated with any commercial HVAC equipment manufacturer or software vendor.**
