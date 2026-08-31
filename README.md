@@ -150,33 +150,4 @@ The application provides an industrial-style monitoring interface featuring:
 * Setting
   <img width="1919" height="1020" alt="setting" src="https://github.com/user-attachments/assets/7c82d199-5356-4022-b6b3-4b2313afb5de" />
 
-
-
 ---
-
-# Purpose
-
-This project was developed to explore the integration of engineering simulation with modern software development practices.
-
-Primary objectives include:
-
-* Physics-based equipment modelling
-* Digital Twin development
-* Engineering software design
-* Industrial monitoring visualization
-* Equipment performance analysis
-* Predictive maintenance concepts
-
-
-
----
-
-# Project Status
-
-**Current Status:** Active Development
-
-
----
-
-
-
