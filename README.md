@@ -21,7 +21,7 @@ The **Physics-Based Chiller Digital Twin** is a proof-of-concept engineering pro
 
 Unlike simplified calculators or purely data-driven models, this project focuses on **physics-based equipment modelling**, enabling realistic simulation of system behaviour, operating conditions, equipment performance, and engineering KPIs.
 
-
+Note: All information sources, coding and findings are researches from internet. They contributes to the build up of this project.
 ---
 
 # Features
